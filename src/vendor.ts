@@ -9,6 +9,12 @@ import '@angular/router';
 // RxJS
 import 'rxjs';
 
+// Import jQuery
+import 'jquery';
+
+// Popper.js is a dependency of bootstrap
+import 'popper.js';
+
 // Bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'ngx-bootstrap';
